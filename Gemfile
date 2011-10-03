@@ -18,5 +18,7 @@ gem 'bson_ext'
 group :development, :test do
   gem 'ruby-debug19', :require => 'ruby-debug'
   gem 'rspec-rails'
+  gem 'rails3-generators'
+  gem 'factory_girl'
 end
 
